@@ -50,7 +50,7 @@ El objetivo principal es:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [URL_DEL_REPOSITORIO]
+    git clone https://github.com/crissgnz-dev/weather-dashboard.git
     ```
 2.  **Navega al directorio del proyecto:**
     ```bash
